@@ -1,0 +1,9 @@
+# Ignore binary files
+*.bin
+*.hex
+*.s37
+*.out
+*.map
+
+# Ignore output directory
+/Binaries/

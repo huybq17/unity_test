@@ -1,0 +1,6 @@
+---
+label: "iostream_usart_baremetal_bg27"
+project:
+- id: "main"
+  path: "test_iostream_usart_baremetal_bg27.slcp"
+  output: "."
